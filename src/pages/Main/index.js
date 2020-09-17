@@ -5,6 +5,7 @@ import About from "../About/index";
 import Contact from "../Contact/index";
 import Work from "../Work/index";
 import Header from "../../components/Header/index";
+import Footer from "../../components/Footer/index";
 
 export default function Main() {
   console.log("portfolio");
@@ -13,7 +14,7 @@ export default function Main() {
     <div>
       <Header>
         <Container>
-          <Header />
+          <Footer />
         </Container>
       </Header>
     </div>
