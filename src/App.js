@@ -1,5 +1,5 @@
 import React from "react";
-import Main from "../../portfolio/src/pages/Main/index";
+import Main from "../src/pages/Main/index";
 
 function App() {
   return <Main />;

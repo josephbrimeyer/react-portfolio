@@ -1,5 +1,6 @@
 import React from "react";
 import Container from "../Container/index";
+import "./main.css";
 
 export default function Header() {
   const menuBtn = document.querySelector(".menu-btn");
